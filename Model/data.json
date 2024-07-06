@@ -1,0 +1,258 @@
+[
+{
+   "id": 101,
+   "Categoria": "Alfajor",
+   "Nombre_del_producto":"Alfajor Chocolate",
+   "Sin_tacc": "No",
+   "Premium": "No",
+   "Precio":2000,
+   "Cantidad_en_stock":5000000,
+   "Vencimiento":"2024/12/21",
+   "Imagenes": "http:/localhost/Fotos DB Cafary/Alfchoco"
+},   
+{
+   "id": 102,
+   "Categoria": "Alfajor",
+   "Nombre_del_producto":"Alfajor Dulde de Leche",
+   "Sin_tacc":"No" ,
+   "Premium": "No",
+   "Precio": 2000,
+   "Cantidad_en_stock":4400000,
+   "Vencimiento":"2024/12/14",
+   "Imagenes": "http:/localhost/Fotos DB Cafary/Alfddl"
+},
+{
+   "id": 103,
+   "Categoria": "Alfajor",
+   "Nombre_del_producto": "Alfajor Fruta",
+   "Sin_tacc": "No",
+   "Premium": "No",
+   "Precio": 2000,
+   "Cantidad_en_stock":3700000,
+   "Vencimiento":"2024/12/14",
+   "Imagenes": "http:/localhost/Fotos DB Cafary/Alffruta"
+}, 
+{
+   "id": 104,
+   "Categoria":"Alfajor",
+   "Nombre_del_producto":"Alfajor Choco blanco",
+   "Sin_tacc": "No",
+   "Premium": "No",
+   "Precio":2000,
+   "Cantidad_en_stock": 3700000,
+   "Vencimiento":"2024/12/21",
+   "Imagenes": "http:/localhost/Fotos DB Cafary/Alfblanco"
+
+}, 
+{
+   "id": 105,
+   "Categoria":"Alfajor",
+   "Nombre_del_producto": "Alfajor Choco blanco y nuez",
+   "Sin_tacc": "No",
+   "Premium": "No",
+   "Precio": 2000,
+   "Cantidad_en_stock": 3700000,
+   "Vencimiento": "2024/12/22",
+   "Imagenes": "Alfblanconuez.jpg"
+}, 
+{
+   "id": 106,
+   "Categoria": "Alfajor",
+   "Nombre_del_producto": "Alfajor Semilia",
+   "Sin_tacc": "No",
+   "Premium": "No",
+   "Precio": 2300,
+   "Cantidad_en_stock": 3900000,
+   "Vencimiento": "2024/12/18",
+   "Imagenes": "Alfsemilia.jpg"
+
+}, 
+{
+   "id": 107,
+   "Categoria": "Alfajor",
+   "Nombre_del_producto": "Alfajor Super Dulce de Leche",
+   "Sin_tacc": "Si",
+   "Premium": "Si",
+   "Precio": 2300,
+   "Cantidad_en_stock": 4600000,
+   "Vencimiento": "2024/12/31",
+   "Imagenes": "Alfsuperddl.jpg"
+}, 
+{
+   "id": 108,
+   "Categoria": "Alfajor",
+   "Nombre_del_producto": "Alfajor 70 % Cacao",
+   "Sin_tacc": "No",
+   "Premium": "Si",
+   "Precio": 2300,
+   "Cantidad_en_stock": 5000000,
+   "Vencimiento": "2024/12/31",
+   "Imagenes": "Alf70.jpg"
+}, 
+{
+   "id": 109,
+   "Categoria": "Alfajor",
+   "Nombre_del_producto": "Alfajor Vegano",
+   "Sin_tacc": "Si",
+   "Premium": "No",
+   "Precio": 2300,
+   "Cantidad_en_stock": 4000000,
+   "Vencimiento": "2024/12/21",
+   "Imagenes": "Alfvegano.jpg"
+}, 
+{
+   "id": 110,
+   "Categoria": "Alfajor", 
+   "Nombre_del_producto": "Alfajor Mar del Plata",
+   "Sin_tacc": "Si",
+   "Premium": "Si",
+   "Precio": 2300,
+   "Cantidad_en_stock": 6000000,
+   "Vencimiento": "2024/12/20",
+   "Imagenes": "Alfmdq.jpg"
+}, 
+{
+   "id": 201,
+   "Categoria": "Galleta",
+   "Nombre_del_producto": "Galletita Limon",
+   "Sin_tacc": "No",
+   "Premium": "No",
+   "Precio": 1800,
+   "Cantidad_en_stock": 3000000,
+   "Vencimiento": "2025/03/03",
+   "Imagenes": "Gallelimon.jpg"
+}, 
+{
+   "id": 202,
+   "Categoria": "Galleta",
+   "Nombre_del_producto": "Galletita de limon con choco",
+   "Sin_tacc": "No",
+   "Premium": "No",
+   "Precio": 1900,
+   "Cantidad_en_stock": 3000000,
+   "Vencimiento": "2025/03/03",
+   "Imagenes": "Gallelimonchoco.jpg"
+}, 
+{
+   "id": 301,
+   "Categoria": "Havannet",
+   "Nombre_del_producto": "Havannet chocolate",
+   "Sin_tacc": "No",
+   "Premium": "No",
+   "Precio": 1850,
+   "Cantidad_en_stock": 5500000,
+   "Vencimiento": "2024/11/16",
+   "Imagenes": "Havannetchoco.jpg"
+}, 
+{
+   "id": 302,
+   "Categoria": "Havannet",
+   "Nombre_del_producto": "Havannet chocolate blanco",
+   "Sin_tacc": "No",
+   "Premium": "No",
+   "Precio": 1850,
+   "Cantidad_en_stock": 5500000,
+   "Vencimiento": "2024/11/16",
+   "Imagenes": "Havannetchocoblanco.jpg"
+}, 
+{
+   "id": 303,
+   "Categoria": "Havannet",
+   "Nombre_del_producto": "Havannet chocolate 70 % cacao",
+   "Sin_tacc": "No",
+   "Premium": "Si",
+   "Precio": 2000,
+   "Cantidad_en_stock": 6000000,
+   "Vencimiento": "2024/11/27",
+   "Imagenes": "Havannetchoco70.jpg"
+}, 
+{
+   "id": 304,
+   "Categoria": "Havannet",
+   "Nombre_del_producto": "Havannet coco",
+   "Sin_tacc": "Si",
+   "Premium": "Si",
+   "Precio": 2000,
+   "Cantidad_en_stock": 3500000,
+   "Vencimiento": "2024/11/27",
+   "Imagenes": "Havannetcoco.jpg"
+}, 
+{
+   "id": 401,
+   "Categoria": "Barra de cereal",
+   "Nombre_del_producto": "Barrita de chocolate con leche",
+   "Sin_tacc": "Si",
+   "Premium": "No",
+   "Precio": 1800,
+   "Cantidad_en_stock": 3500000,
+   "Vencimiento": "2025/02/02",
+   "Imagenes": "Barraconleche.jpg"
+}, 
+{
+   "id": 402,
+   "Categoria": "Barra de cereal",
+   "Nombre_del_producto":"Barrita de chocolate blanco",
+   "Sin_tacc": "Si",
+   "Premium": "No",
+   "Precio": 1800,
+   "Cantidad_en_stock": 3500000,
+   "Vencimiento": "2025/02/02",
+   "Imagenes": "Barrablanca.jpg"
+}, 
+{
+   "id": 403,
+   "Categoria": "Barra de cereal",
+   "Nombre_del_producto": "Barrita de chocolate 70 % cacao",
+   "Sin_tacc": "Si",
+   "Premium": "Si",
+   "Precio": 2000,
+   "Cantidad_en_stock": 2000000,
+   "Vencimiento": "2025/02/02",
+   "Imagenes": "Barra70.jpg"
+
+}, 
+{
+   "id": 503,
+   "Categoria": "Chocolate",
+   "Nombre_del_producto": "Coronitas surtidas (caja)",
+   "Sin_tacc": "Si",
+   "Premium": "Si",
+   "Precio": 15000,
+   "Cantidad_en_stock": 4400000,
+   "Vencimiento": "2025/05/06",
+   "Imagenes": "Coronitassurtidas.jpg"
+}, 
+{
+   "id": 504,
+   "Categoria": "Chocolate",
+   "Nombre_del_producto": "Coronitas 70 % cacao (caja)",
+   "Sin_tacc": "Si",
+   "Premium": "Si",
+   "Precio": 17000,
+   "Cantidad_en_stock": 4400000,
+   "Vencimiento": "2025/05/20",
+   "Imagenes": "Coronitas70.jpg"
+}, 
+{
+   "id": 505,
+   "Categoria": "Chocolate",
+   "Nombre_del_producto": "Trufas surtidas (caja)",
+   "Sin_tacc": "Si",
+   "Premium": "No",
+   "Precio": 17000,
+   "Cantidad_en_stock": 5000000,
+   "Vencimiento": "2025/05/28",
+   "Imagenes": "Trufasurtida.jpg"
+}, 
+{
+   "id": 506,
+   "Categoria": "Chocolate",
+   "Nombre_del_producto": "Trufas 70 % cacao (caja)",
+   "Sin_tacc": "Si",
+   "Premium": "Si",
+   "Precio": 18000,
+   "Cantidad_en_stock": 5000000,
+   "Vencimiento": "2025/05/28",
+   "Imagenes": "Trufa70.jpg"
+}
+]

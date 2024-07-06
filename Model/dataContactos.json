@@ -1,0 +1,15 @@
+[
+{
+    "Id": 1,
+    "Mail": "carobaibines@mail",
+    "Mensaje": "Hola, me mandan info.",
+    "Categoria": "Franquiciado"
+ }
+ ,
+ {
+    "Id": 2,
+    "Mail": "alejandravelazquez@hotmail.com",
+    "Mensaje": "Buenas noches. Estoy por abrir un local. Podrían pasarme algún contacto de la distribuidora, para comenzar a organizarme con los pedidos?",
+    "Categoria": "Local Directo"
+ }
+]
